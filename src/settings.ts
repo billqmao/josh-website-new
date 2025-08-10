@@ -1,8 +1,8 @@
 export const profile = {
-	fullName: 'Your Name',
-	title: '',
-	institute: '',
-	author_name: '', // Author name to be highlighted in the papers section
+	fullName: 'Joshua Bromley',
+	title: 'PhD Student',
+	institute: 'University of Toronto Department of Astronomy and Astrophysics',
+	author_name: 'Joshua Bromley', // Author name to be highlighted in the papers section
 	research_areas: [
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
 	],
